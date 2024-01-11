@@ -4,20 +4,19 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-## Education
-- Korea University, Seoul
-    - Dept of Biomedical Engineering (2021~)
-    - Artificial Intelligence (2022~)
-- Sungkyunkwan University
-    - Dept of Engineering(2019.02 ~ 2020.01)
+## 🎓 Education
+> Korea University, Seoul
+> - Dept of Biomedical Engineering (2021~)
+> - Artificial Intelligence (2022~)
 
-## Career
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+> Sungkyunkwan University
+> - Dept of Engineering (2019.02 ~ 2020.01)
 
-## Project
+## 📌 Career
+- 서울대학교 의과대학 생체자기공명연구실 학부연구생 (2023.12 ~ 2024.02)
+- 생명과학 컨텐츠개발팀 UAA & DCAF (2020.01 ~ )
+
+## 💻 Project
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
@@ -35,7 +34,9 @@ This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
 watch the results in the right.
 
-## Tech
+## Skill
+### [Language]
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/MATLAB-DD1100?style=flat&logo=Matrix&logoColor=white)
 
 Dillinger uses a number of open source projects to work properly:
 
