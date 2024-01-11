@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Good%20Influence&fontSize=80&desc=dongpang&descSize=23&descAlignY=67&descAlign=75&fontColor=8A2BE2&textBg=false&stroke=000000&strokeWidth=1.2&rotate=-10)
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%238A3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello%21+Dongpang&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🎓 Education
 > Korea University, Seoul
@@ -15,6 +13,9 @@
 ## 📌 Career
 - 서울대학교 의과대학 생체자기공명연구실 학부연구생 (2023.12 ~ 2024.02)
 - 생명과학 컨텐츠개발팀 UAA & DCAF (2020.01 ~ )
+
+## Skill
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/MATLAB-DD1100?style=flat&logo=Matrix&logoColor=white) ![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white) ![Static Badge](https://img.shields.io/badge/scikitlearn-F7931E?logo=Scikitlearn&logoColor=white)
 
 ## 💻 Project
 
@@ -34,9 +35,6 @@ This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
 watch the results in the right.
 
-## Skill
-### [Language]
-![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/MATLAB-DD1100?style=flat&logo=Matrix&logoColor=white)
 
 Dillinger uses a number of open source projects to work properly:
 
@@ -87,84 +85,6 @@ Instructions on how to use them in your own application are linked below.
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
-## Development
-
-Want to contribute? Great!
-
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
-
-Open your favorite Terminal and run these commands.
-
-First Tab:
-
-```sh
-node app
-```
-
-Second Tab:
-
-```sh
-gulp watch
-```
-
-(optional) Third:
-
-```sh
-karma test
-```
-
-#### Building for source
-
-For production release:
-
-```sh
-gulp build --prod
-```
-
-Generating pre-built zip archives for distribution:
-
-```sh
-gulp build dist --prod
-```
-
-## Docker
-
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the
-Dockerfile if necessary. When ready, simply use the Dockerfile to
-build the image.
-
-```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
-```
-
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
-```
-
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
-
-Verify the deployment by navigating to your server address in
-your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
-
-## License
-
-MIT
 
 **Free Software, Hell Yeah!**
 
