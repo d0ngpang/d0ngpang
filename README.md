@@ -14,7 +14,7 @@
 - 서울대학교 의과대학 생체자기공명연구실 학부연구생 (2023.12 ~ 2024.02)
 - 생명과학 컨텐츠개발팀 UAA & DCAF (2020.01 ~ )
 
-## Skill
+## 💻 Skill
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/MATLAB-DD1100?style=flat&logo=Matrix&logoColor=white) ![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white) ![Static Badge](https://img.shields.io/badge/scikitlearn-F7931E?logo=Scikitlearn&logoColor=white)
 
 ## 💻 Project & Experience
