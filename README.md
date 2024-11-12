@@ -3,16 +3,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd0ngpang%2Fhit-counter&count_bg=%238A3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello%21+Dongpang&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🎓 Education
-> Korea University, Seoul
-> - Dept of Biomedical Engineering (2021~)
-> - Artificial Intelligence (2022~)
+> Korea University, Seoul (2021.03 ~ 2025.02)
+> - Dept of Biomedical Engineering & Artificial Intelligence
 
 > Sungkyunkwan University
 > - Dept of Engineering (2019.02 ~ 2020.01)
 
 ## 📌 Career
-- 서울대학교 의과대학 생체자기공명연구실 학부연구생 (2023.12 ~ )
-- 생명과학 컨텐츠개발팀 UAA & DCAF (2020.01 ~ )
+- 
+- 
 
 ## 💻 Skill
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/MATLAB-DD1100?style=flat&logo=Matrix&logoColor=white) ![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white) ![Static Badge](https://img.shields.io/badge/scikitlearn-F7931E?logo=Scikitlearn&logoColor=white)
